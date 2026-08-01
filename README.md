@@ -1,4 +1,12 @@
-# BIFROST
+<p align="center">
+  <img src="./assets/bifrost-logo.png" alt="BIFROST logo" width="180">
+</p>
+
+<h1 align="center">BIFROST</h1>
+
+<p align="center">
+  Self-hosted Git platform for repositories, issues, pull requests, CI/CD, packages, teams, and developer workflows.
+</p>
 
 BIFROST is a self-hosted Git platform for repositories, issues, pull requests, CI/CD, packages, teams, and developer workflows.
 
