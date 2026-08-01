@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/Bifrost.png" alt="BIFROST logo" width="180">
+  <img src="../assets/Bifrost.png" alt="BIFROST logo" width="360">
 </p>
 
 <h1 align="center">BIFROST</h1>
